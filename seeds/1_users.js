@@ -8,7 +8,7 @@ exports.seed = function(knex, Promise) {
           {
             id: 1,
             username: "Ruca Love",
-            hashed_password: "$2a$12$a3uciAxELZeRtQpDEYdrFOFHMD3cBy70BI5JYJ/MejnLT8zyI0BLy",
+            hashed_password: "$2y$10$FbwaVlMEKQbjMWBVUO/cP.0wEBV5W3hdi8Zy1WQBdK6FBxDSgs2Aq",
             email: "haley.kalb@gmail.com",
             profile_picture_img: "/images/profilePictures/rucalove.jpg",
             bio: "When I do yoga, I like to relax and enjoy myself!",
@@ -22,7 +22,7 @@ exports.seed = function(knex, Promise) {
           {
             id: 2,
             username: "GeeGeorge",
-            hashed_password: "$2a$12$a3uciAxELZeRtQpDEYdrFOFHMD3cBy70BI5JYJ/MejnLT8zyI0BLy",
+            hashed_password: "$2y$10$FbwaVlMEKQbjMWBVUO/cP.0wEBV5W3hdi8Zy1WQBdK6FBxDSgs2Aq",
             email: "gee.george@gmail.com",
             profile_picture_img: "/images/profilePictures/gee.png",
             bio: "I like to dance, sing, and do yoga. Get to know me!",
@@ -36,7 +36,7 @@ exports.seed = function(knex, Promise) {
           {
             id: 3,
             username: "DerekJones",
-            hashed_password: "$2a$12$a3uciAxELZeRtQpDEYdrFOFHMD3cBy70BI5JYJ/MejnLT8zyI0BLy",
+            hashed_password: "$2y$10$FbwaVlMEKQbjMWBVUO/cP.0wEBV5W3hdi8Zy1WQBdK6FBxDSgs2Aq",
             email: "derek.jones@gmail.com",
             profile_picture_img: "/images/profilePictures/derek.jpg",
             bio: "I live, breathe, eat and sleep yoga!",
@@ -50,7 +50,7 @@ exports.seed = function(knex, Promise) {
           {
             id: 4,
             username: "CPT",
-            hashed_password: "$2a$12$a3uciAxELZeRtQpDEYdrFOFHMD3cBy70BI5JYJ/MejnLT8zyI0BLy",
+            hashed_password: "$2y$10$FbwaVlMEKQbjMWBVUO/cP.0wEBV5W3hdi8Zy1WQBdK6FBxDSgs2Aq",
             email: "christian.taggart@gmail.com",
             profile_picture_img: "/images/profilePictures/christian.jpg",
             bio: "I invented yoga, everyone else is a poser",
@@ -64,7 +64,7 @@ exports.seed = function(knex, Promise) {
           {
             id: 5,
             username: "Kevin",
-            hashed_password: "$2a$12$a3uciAxELZeRtQpDEYdrFOFHMD3cBy70BI5JYJ/MejnLT8zyI0BLy",
+            hashed_password: "$2y$10$FbwaVlMEKQbjMWBVUO/cP.0wEBV5W3hdi8Zy1WQBdK6FBxDSgs2Aq",
             email: "kevin.conrad@gmail.com",
             profile_picture_img: "/images/profilePictures/kevin.jpg",
             bio: "Warrior 2 is my favorite!",
@@ -78,7 +78,7 @@ exports.seed = function(knex, Promise) {
           {
             id: 6,
             username: "Sunshine Daydream",
-            hashed_password: "$2a$12$a3uciAxELZeRtQpDEYdrFOFHMD3cBy70BI5JYJ/MejnLT8zyI0BLy",
+            hashed_password: "$2y$10$FbwaVlMEKQbjMWBVUO/cP.0wEBV5W3hdi8Zy1WQBdK6FBxDSgs2Aq",
             email: "test@test.com",
             profile_picture_img: "http://www.vitamin-ha.com/wp-content/uploads/2012/06/VH-yoga_cat.jpg",
             bio: "Yoga is my favorite pastime.",
